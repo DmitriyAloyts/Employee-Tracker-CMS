@@ -10,4 +10,6 @@ The command-line application allows users to:
 
   * Update employee roles
 
+To run: npm start
 
+Sample data:  run `seed.sql` file to pre-populate database. This will will have basic data.
